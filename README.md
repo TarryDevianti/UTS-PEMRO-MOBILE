@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # tugas2_flutter
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# UTS-PEMOGRAMAN-MOBILE
+UTS PEMOGRAMAN MOBILE
+>>>>>>> b6232862e81cd48e115226f0e7e55158ebbeadfd
